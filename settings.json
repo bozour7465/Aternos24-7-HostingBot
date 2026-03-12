@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Survival_infinitium.aternos.me",
+    "port": 15222,
     "version": "",
     "try-creative": false
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -64,10 +64,10 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
-    "console-commands": true
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": true,
